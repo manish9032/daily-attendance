@@ -1,1 +1,9 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.onrender.daily_attendance_omrw.twa",
+        "sha256_cert_fingerprints": ["E4:53:04:72:5B:C9:7C:30:2F:41:10:C0:BE:A7:3B:2B:8C:F5:FF:77:C3:E2:A2:7C:D4:62:D6:B0:07:1C:43:05"]
+      }
+    }]
 
